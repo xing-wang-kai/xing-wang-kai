@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hi there! 大家好！ 👋</h1>
+<h2>Student of Digital Games Development. Passionate about programming and games I speak: PT, ENG, CH!</br>
+数字游戏开发的学生。 我对编程和游戏充满热情：PT、ENG、CH</h2>
+<h1></h1>
 
 - 🔭 I’m currently working on C, C++, Python and JavaScript, SQL
 - 🌱 I’m currently learning C
