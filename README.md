@@ -3,12 +3,13 @@
 数字游戏开发的学生。 我对编程和游戏充满热情：PT、ENG、CH</h2>
 <h1></h1>
 
-- 🔭 I’m currently working on C, C++, Python and JavaScript, SQL
-- 🌱 I’m currently learning C
+- 🔭 I’m currently working on C, C++, Python and JavaScript, SQL, REACTjs, NodeJs
+- 🌱 I’m currently learning C# and Unity for gamers develop
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with maker my skill better.
 - 💬 Ask me about anything do you want
 - 📫 How to reach me: Xing-Wang-Kai
+<br/><hr/>
 <!--status inicial mostrando hanking e commints-->
 <div align="center">
   <a href="https://github.com/xing-wang-kai">
@@ -17,14 +18,14 @@
 </div>
   
   <!--links das lenguagens usadas taked icons from devicons-->
-  <div style="display: inline_block" align="center"><br>
+  <div style="{display:inline_block}" align="center"><br>
     
   <img align="center" alt="kai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kai-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="kai-Python" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </br></br></br>
   
-  <img align="center" alt="kai-less" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
+  <img align="center" alt="kai-Sass" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="kai-node" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="kai-jquery" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="kai-reactjs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
