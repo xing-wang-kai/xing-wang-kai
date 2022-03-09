@@ -25,11 +25,15 @@
   <img align="center" alt="kai-Python" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </br></br></br>
   
-  <img align="center" alt="kai-Sass" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  
   <img align="center" alt="kai-node" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="kai-bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="kai-materialUi" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="kai-Sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="kai-jquery" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="kai-reactjs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="kai-sequelize" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg"/>
+  
   </br></br></br>
   
   <img align="center" alt="kai-c" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
