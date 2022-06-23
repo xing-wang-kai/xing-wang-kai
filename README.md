@@ -1,14 +1,22 @@
 <h1>Hi there! 大家好！ 👋</h1>
-<h2>Student of Digital Games Development. Passionate about programming and games I speak: PT, ENG, CH!</br>
-数字游戏开发的学生。 我对编程和游戏充满热情：PT、ENG、CH</h2>
-<h1></h1>
+<h2>FullStack Web and Game Developer</h2>
+<h2> 全栈网络和游戏程序员</h2>
 
-- 🔭 I’m currently working on C, C++, Python and JavaScript, SQL, REACTjs, NodeJs
-- 🌱 I’m currently learning C# and Unity for gamers develop
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with maker my skill better.
-- 💬 Ask me about anything do you want
-- 📫 How to reach me: Xing-Wang-Kai
+> I speak 
+> > PT
+> > 
+> > ENG
+> > 
+> > CH
+
+<h3> 跟我您可以说汉语和葡萄牙语和英语！！</h3>
+
+<p> I am a programming student in the digital games area. I am a REST API expert with modern data modeling concepts. On the frontend I have vast knowledge with REACT JS. In the area of digital games I have skills with UNITY and C#.</p>
+
+<p>我是数字游戏领域的编程学生。 我是具有现代数据建模概念的 REST API 专家。 在前端，我对 REACT JS 有广泛的了解。 在数字游戏领域，我有 UNITY 和 C# 的技能。</p>
+
+[Acess here my portfolio.](https://my-procfile.vercel.app/#home)
+
 <br/><hr/>
 <!--status inicial mostrando hanking e commints-->
 <div align="center">
