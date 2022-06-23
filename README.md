@@ -1,5 +1,5 @@
 <h1>Hi there! 大家好！ 👋</h1>
-<h2>FullStack Web and Game Developer</h2>
+<h2> <strong> < / FullStack Web and Game Developer ></strong> </h2>
 <h2> 全栈网络和游戏程序员</h2>
 
 > I speak 
