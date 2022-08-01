@@ -12,8 +12,10 @@
 <h3> 跟我您可以说汉语和葡萄牙语和英语！！</h3>
 
 <p> I am a programming student in the digital games area. I am a REST API expert with modern data modeling concepts. On the frontend I have vast knowledge with REACT JS. In the area of digital games I have skills with UNITY and C#.</p>
+<p> Currently I study Java programming language, with JDBC, JPA and SPRING. I have advanced skills with SQL and NoSQL databases.</p>
 
 <p>我是数字游戏领域的编程学生。 我是具有现代数据建模概念的 REST API 专家。 在前端，我对 REACT JS 有广泛的了解。 在数字游戏领域，我有 UNITY 和 C# 的技能。</p>
+<p> 目前我学习 Java 编程语言，包括 JDBC、JPA 和 SPRING。 我在 SQL 和 NoSQL 数据库方面拥有高级技能。</p>
 
 [Acess here my portfolio.](https://my-procfile.vercel.app/#home)
 
