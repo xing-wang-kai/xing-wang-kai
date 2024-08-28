@@ -1,21 +1,17 @@
-<h1>Hi there! 大家好！ 👋</h1>
-<h2> <strong> < / FullStack Web and Game Developer ></strong> </h2>
-<h2> 全栈网络和游戏程序员</h2>
+<h1>Hi there! 👋</h1>
+<h2><strong>Data Engineer | ETL Specialist | Cloud Development | Data Quality Expert</strong></h2>
 
 > I speak 
 > > PT
 > > 
 > > ENG
-> > 
-> > CH
 
-<h3> 跟我您可以说汉语和葡萄牙语和英语！！</h3>
+<p>I am a data engineer focused on ETL processes, with extensive knowledge in automation jobs and cloud development. I specialize in data quality using PyDeequ, and have strong expertise in PySpark, SQL, and Pandas for data analysis. I also hold a postgraduate degree in Machine Learning.</p>
 
-<p> I am a programming student in the digital games area. I am a REST API expert with modern data modeling concepts. On the frontend I have vast knowledge with REACT JS. In the area of digital games I have skills with UNITY and C#.</p>
-<p> Currently I study Java programming language, with JDBC, JPA and SPRING. I have advanced skills with SQL and NoSQL databases.</p>
+<p>I am a REST API expert with modern data modeling concepts. Additionally, I have vast knowledge of frontend development with React JS and skills in digital game development using Unity and C#.</p>
 
-<p>我是数字游戏领域的编程学生。 我是具有现代数据建模概念的 REST API 专家。 在前端，我对 REACT JS 有广泛的了解。 在数字游戏领域，我有 UNITY 和 C# 的技能。</p>
-<p> 目前我学习 Java 编程语言，包括 JDBC、JPA 和 SPRING。 我在 SQL 和 NoSQL 数据库方面拥有高级技能。</p>
+<p>Currently, I am studying Java programming language, including JDBC, JPA, and Spring. I possess advanced skills with both SQL and NoSQL databases.</p>
+
 
 [Acess here my portfolio.](https://my-procfile.vercel.app/#home)
 
@@ -29,6 +25,18 @@
   
   <!--links das lenguagens usadas taked icons from devicons-->
   <div style="{display:inline_block}" align="center"><br>
+
+  
+  <img align="center" alt="kai-Python"      height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="kai-spark"       height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img align="center" alt="kai-databricks"  height="60" width="100" src="https://seeklogo.com/images/D/databricks-logo-2F2F1E37DB-seeklogo.com.png" />
+  <img align="center" alt="kai-mysql"       height="100" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="kai-airflow"     height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+  <img align="center" alt="kai-tensorflow"  height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
+  <img align="center" alt="kai-keras"       height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
+          
+  
+  </br></br></br>
     
   <img align="center" alt="kai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kai-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
@@ -38,13 +46,9 @@
   <img align="center" alt="kai-typeScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="kai-node" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="kai-bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="kai-materialUi" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="kai-Sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="kai-jquery" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="kai-reactjs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="kai-nest" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-  <img align="center" alt="kai-sequelize" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg"/>
-  <img align="center" alt="kai-graphQL" eight="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   
   </br>
   
@@ -54,18 +58,7 @@
           
             
   </br></br>
-  <img align="center" alt="kai-c" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="kai-cpp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="kai-csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </br></br></br>
  
-  <img align="center" alt="kai-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </br></br></br>
-  
-  <img align="center" alt="kai-php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="kai-mysql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  </br> </br> </br>
-  <img align="center" alt="kai-unity" height="100" width="120"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
  
 </div>
   
